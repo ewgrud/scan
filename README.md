@@ -5,4 +5,4 @@
 1.app简约风格将能快速的生成您所需要的二维码信息
 2.app将生成的二维码可以随时保存到本地相机当中
 
-联系邮箱：https://github.com/ewgrud
+联系邮箱：y0984g0h6u@gmail.com
